@@ -1,5 +1,5 @@
 {
-  "name": "@musistudio/llms",
+  "name": "@moqimoqidea/llms",
   "version": "1.0.38",
   "description": "A universal LLM API transformation server",
   "main": "dist/cjs/server.cjs",
